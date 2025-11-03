@@ -1,0 +1,14 @@
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.AssemblyInfoInputs.cache
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.AssemblyInfo.cs
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.csproj.CoreCompileInputs.cache
+/Users/mnwa/Documents/с# project/bin/Debug/net9.0/с# project
+/Users/mnwa/Documents/с# project/bin/Debug/net9.0/с# project.deps.json
+/Users/mnwa/Documents/с# project/bin/Debug/net9.0/с# project.runtimeconfig.json
+/Users/mnwa/Documents/с# project/bin/Debug/net9.0/с# project.dll
+/Users/mnwa/Documents/с# project/bin/Debug/net9.0/с# project.pdb
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.dll
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/refint/с# project.dll
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.pdb
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.genruntimeconfig.cache
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/ref/с# project.dll
