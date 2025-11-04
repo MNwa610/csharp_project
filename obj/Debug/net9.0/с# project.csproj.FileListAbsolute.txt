@@ -12,3 +12,4 @@
 /Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.pdb
 /Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.genruntimeconfig.cache
 /Users/mnwa/Documents/с# project/obj/Debug/net9.0/ref/с# project.dll
+/Users/mnwa/Documents/с# project/obj/Debug/net9.0/с# project.sourcelink.json
